@@ -1,0 +1,57 @@
+Project 3 Feedback
+Team Name: Gem
+Grader: Simon Stuard
+
+Grade: 90
+
+Comments: Your README could have been more explicit about what will be presented to the user. Make sure your commit messages are useful and not generic. The functionality of your program is great and the web page created is useful and clean. Try to use more than one rb and use classes to keep your code clean and modular. For example, creating a WebPage class that includes the header information your program writes to the page each time. Your project is useful and easy to use, great work!
+
+### Documentation ###
+
+3. Good
+* Readme is mostly complete. Include more about what options the user will have and hwo the data will be sorted/displayed
+* In-code documentation is helpful.
+* Writing is clear.
+* Commit message have useful first-line summaries. Include more explicit information.
+
+
+### Correctness ###
+
+4. Excellent
+* Fully correct and very robust, even to malicious user actions.
+* Very robust, even to significant changes in the site or page structure.
+
+
+### Functionality/Features
+
+4. Excellent
+* A great deal of data is retrieved, either in quantity or diversity of source (eg from many pages or many sites).
+* Manual browsing to solve same problem is impractical.
+* Data analysis and integration provides new insights for user.
+* Results, implications, and insights can be easily understood by novice user.
+* Tool meets an existing need: It will be adopted for use by other students.
+
+
+### Style ###
+
+4. Excellent
+* Strict adherence to a known style
+* Great use of frequent and precise comments.
+* Excellent use of standard libraries and idiomatic Ruby.
+* Elegant use of blocks and loops.
+
+
+### Design ###
+
+3. Good
+* No classes used. The page formatting of the HTML document could have been handled in a cleaner way, rather than having so many write lines (such as making a page class that includes this data).
+* Some concrete coupling between implementations.
+* A lot of hard coded literals
+
+
+
+
+
+
+
+
